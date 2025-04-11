@@ -43,7 +43,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=NEVER SAY NEVER" alt="Typing SVG" />
 </div>
 
-## 欢迎来到康康的主页😊😊😊
+## 欢迎来到KANG的主页😊😊😊
 - 🌱 目前正在学习 `深度学习` 、 `机器学习` 、 `大模型` 和 `推荐算法`
 - 📫 联系方式:1043786779@qq.com
 <div align="center">
