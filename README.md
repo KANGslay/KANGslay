@@ -38,13 +38,6 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d0041986-7fc1-47bb-81eb-8c55dac34bcd" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=NEVER SAY NEVER" alt="Typing SVG" />
-</div>
-
 ## 欢迎来到KANG的主页😊😊😊
 - 🌱 目前正在学习 `深度学习` 、 `机器学习` 、 `大模型` 和 `推荐算法`
 - 📫 联系方式:1043786779@qq.com
